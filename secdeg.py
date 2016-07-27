@@ -9,4 +9,4 @@ if delta>0:
 elif delta==0 :
 	print((-b)/(2*a))
 else:
-	print("pas de solutions")
+	print("desole pas de solutions redefinissez vos variables svp")
